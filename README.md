@@ -9,5 +9,15 @@ It was developed for educational and analytical purposes to study how initializa
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Getting Started
+
+To get a local copy of the repository up and running, follow these simple steps:
+
+### 📥 Clone the Repository
+
+First, open your terminal and run the following command to clone the repository:
+
+```bash
+git clone https://github.com/EjahDil/KMeans_Clustering.git
+```
 
